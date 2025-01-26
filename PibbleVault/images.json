@@ -1,21 +1,21 @@
 {
   "_comment": "i <3 pibble",
   "images": [
-    { "letter": "A", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/A.jpg", "value": 1 },
-    { "letter": "B", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/B.jpg", "value": 2 },
-    { "letter": "C", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/C.jpg", "value": 3 },
-    { "letter": "D", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/D.jpg", "value": 4 },
-    { "letter": "E", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/E.jpg", "value": 5 },
-    { "letter": "F", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/F.jpg", "value": 6 },
-    { "letter": "G", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/G.jpg", "value": 7 },
-    { "letter": "H", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/H.jpg", "value": 8 },
-    { "letter": "I", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/I.jpg", "value": 9 },
-    { "letter": "J", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/J.jpg", "value": 10 },
-    { "letter": "K", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/K.jpg", "value": 11 },
-    { "letter": "L", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/L.jpg", "value": 12 },
-    { "letter": "M", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/M.jpg", "value": 13 },
-    { "letter": "N", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/N.jpg", "value": 14 },
-    { "letter": "O", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/O.jpg", "value": 15 },
-    { "letter": "P", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/P.jpg", "value": 16 }
+    { "letter": "A", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/A.jpg"},
+    { "letter": "B", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/B.jpg"},
+    { "letter": "C", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/C.jpg"},
+    { "letter": "D", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/D.jpg"},
+    { "letter": "E", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/E.jpg"},
+    { "letter": "F", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/F.jpg"},
+    { "letter": "G", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/G.jpg"},
+    { "letter": "H", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/H.jpg"},
+    { "letter": "I", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/I.jpg"},
+    { "letter": "J", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/J.jpg"},
+    { "letter": "K", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/K.jpg"},
+    { "letter": "L", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/L.jpg"},
+    { "letter": "M", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/M.jpg"},
+    { "letter": "N", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/N.jpg"},
+    { "letter": "O", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/O.jpg"},
+    { "letter": "P", "url": "https://raw.githubusercontent.com/homunculus09/PibbleTakeover/refs/heads/main/PibbleVault/P.jpg"}
   ]
 }
